@@ -83,7 +83,7 @@ include('database.php');
 				  ?>
 							</h3>
                             <h5 class="mb-0 font-weight-medium text-primary">Chambres</h5>
-                            <p class="mb-0 text-muted">En générale</p>
+                            <p class="mb-0 text-muted">En gloalité</p>
                           </div>
                           <div class="wrapper my-auto ml-auto ml-lg-4">
                             <canvas height="50" width="100" id="stats-line-graph-2"></canvas>
